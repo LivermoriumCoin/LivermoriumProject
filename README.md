@@ -9,7 +9,7 @@ Coin Type :  POW / POS / Masternode Hybrid
 ◉  Staking Block Rewards  ◉
 
 40% Stakers / 60% Masternodes
-PoS Phase 1 - Blocks 1 - 525650 = 40 XLR         40% POS - 60% MN Reward
+PoS Phase 1 - Blocks 1 - 525650 = 40 XLR    40% POS - 60% MN Reward
 PoS Phase 2 - Blocks 525651 - MaxSupply = 20 XLR    40% POS - 60% MN Reward
 
 
