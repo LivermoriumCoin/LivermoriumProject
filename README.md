@@ -1,4 +1,4 @@
-livermorium Coin Specification
+Livermorium Coin Specification
 
 Coin Name : Livermorium Coin
 
@@ -8,7 +8,7 @@ Coin Type :  POW / POS / Masternode Hybrid
 
 MAXIMUM BLOCK SIZE : 3 MB
 
-Block Time : &0 Sec Approx
+Block Time : 1 Min Approx
 
 MINIMUM STAKE AGE : 1 Hr
 
